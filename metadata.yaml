@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '9455'
     url: http://www.gutenberg.org/2009/agents/9455
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44283#Ulla-FersenHistoriallinen-novelli
 gutenberg_issued: '2013-11-25'
 gutenberg_type: Text
 identifiers:
